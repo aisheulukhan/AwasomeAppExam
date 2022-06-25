@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main1{
+    background-color: #FA5843;
+}
+header{
+    background-color: #FA5843;
+}
+.navbar{
+    width: 100%;
+    background-color: transparent;
+    height: 100px;
+} 
+header .btn:hover{
+    background-color: white;
+    color: black;
+}
+.main1 .btn:hover{
+    background-color: white;
+    color: black;
+}
+.main2 i{
+    color: #FA5843;
+}
+.main4{
+    background-color: #f5fafd;
+}
+.cards-header{
+    background-color: #f7f7f8;
+}
+.cards-body{
+    background-color: #f7f7f8;
+}
+.cards-bodys{
+    background-color: #FA5843;
+}
+.main6 .card{
+    background-color: #e2e2e6;
+}
+.main7{
+    background-color: #FA5843;
+}
+.main7 .col-lg-4{
+    width: 400px;
+    background-color: white;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+.main7 i{
+    font-size: 45px;
+    color: grey;
+}
